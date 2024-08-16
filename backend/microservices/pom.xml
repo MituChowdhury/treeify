@@ -13,7 +13,7 @@
 
     <modules>
         <module>UserService</module>
-        <module>GardenActivityService</module>
+        <module>GardenService</module>
         <module>PointsService</module>
         <module>MarketplaceService</module>
         <module>ForumService</module>
